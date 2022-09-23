@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import url("../css/reset.css");
+
+body{
+    font-family: Lato, serif;
+    background-color: rgb(151, 151, 163);
+    font-style: normal;
+}
+.head-lesson{
+    color: #1E212C;
+    font-size: 46px;
+    line-height: 1.3;
+    font-weight: 700;
+    width: 810px;
+    height: 120px;
+    /* background-color: aqua; */
+    padding-left: 20px;
+    margin-bottom: 92px;
+    
+
+}
+.block{
+    width: 830px;
+    height: 1594px;
+    border: 1px solid black;
+    margin: 32px 765px 530px 325px;
+    background-color: #FFFFFF;
+}
+.images{
+    max-width: 100%;
+    padding-left: 20px;
+    margin-bottom: 60px;
+}
+.vulputate{
+    color: #1E212C;
+    width: 810px;
+    height: 110px;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 700;
+    padding: 20px;
+    margin: 0px 0px 24px 0px;
+
+}
+.paragraf{
+    width: 810px;
+    height: 182px;
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    padding-left: 20px;
+    margin-bottom: 48px;
+
+}
+.paragraf-1{
+    margin-bottom: 16px;
+}
+.lorem{
+    width: 752px;
+    margin-left: 58px;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+.mauris{
+width: 810px;
+height: 68px;
+padding: 20px;
+font-size: 16px;
+line-height: 1.6;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.item {
+    width: 600px;
+    height: 126px;
+    font-size: 16px;
+    line-height: 1.6;
+    padding-left: 52px;
+    font-weight: 400;
+    margin-bottom: 24px;
+     
+}
+.item li{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.enim{
+    color: #424551;
+    width: 810px;
+    height: 104px;
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 20px;
+    font-weight: 400;
+    margin-bottom: 100px;
+}
+.link{
+    margin-bottom: 60px;
+
+}
+.link-1,
+.link-2{
+    color: #1E212C;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 15px;
+    margin: 15px;
+   /* margin: 5px ; */
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 15px 25px 15px 25px;
+    box-shadow: 5px 5px 2px black;
+}
+.text{
+    font-size: 30px;
+    line-height: 1.5;
+    background-color: rgb(88, 148, 204);
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 35px red, inset 20px 10px 15px rgb(209, 223, 17);
+    
+}
+.text-2{
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 1.2;
+    background-color: #0b217a;
+    text-align: justify;
+    max-width: 300px;
+    height: 150px;
+    margin: 0 auto;
+    overflow: scroll;
+
+}
